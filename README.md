@@ -118,6 +118,9 @@ These problem statements may be used for:
 - Academic research proposals
 - Classroom discussion and coursework
 - Practitioner exploration and critique
+- - Basis for capstone projects and seminar discussions
+- Basis for capstone projects and seminar discussions
+
 
 Reuse, reinterpretation, and extension are encouraged.
 
