@@ -6,6 +6,8 @@ remain poorly understood when AI systems move from pilots to long-lived, regulat
 
 The intent is to enable **academic discussion, student exploration, and practitioner dialogue**
 around enterprise AI failure modes, constraints, and open research questions.
+These problems are written for students, researchers, and practitioners interested in long-lived, production-grade AI systems.
+
 
 ---
 
