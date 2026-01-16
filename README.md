@@ -130,5 +130,6 @@ please cite the repository URL and the relevant problem title.
 
 ## Maintainer Note
 
-This repository is intentionally low-noise.
-Issues may be enabled selectively to preserve focus on problem framing.
+This repository contains open problem statements derived from real enterprise-scale AI systems,
+focusing on failure modes, cost dynamics, and governance challenges that emerge after pilots reach production.
+
